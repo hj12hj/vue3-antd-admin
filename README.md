@@ -133,5 +133,6 @@ vue3-antd-admin是完全开源免费的项目，在帮助开发者更方便地�
 <img width="320" src="http://www.lelebk.com/docs/img/zsm.jpg">
 
 ## License
+node node_modules/esbuild/install.js
 
 [MIT © llyyayx-2021](./LICENSE)
